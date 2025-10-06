@@ -19,3 +19,10 @@ dev_dependencies:
 
 executables:
   coverage_viewer:
+
+topics:
+  - coverage
+  - testing
+  - flutter
+  - dart
+  - visualization
